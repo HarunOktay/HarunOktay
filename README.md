@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harun</h1>
-<h3 align="center">Computer Science Student at Yıldız Technical University</h3>
+<h3 align="center">Computer Engineering Student at Yıldız Technical University</h3>
 
 - 🌱 I’m currently learning **Front End Development**
 
