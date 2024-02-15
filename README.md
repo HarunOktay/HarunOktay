@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Harun</h1>
-<h3 align="center">Computer Engineering Student at Yıldız Technical University</h3>
+<h1 align="left">Hi, I'm Harun</h1>
+<h3 align="left">Computer Engineering Student at Yıldız Technical University</h3>
 
-- 🌱 I’m currently learning **Front End Development**
+- 📚 I’m currently learning **Front End Development**
 
 - 💬 Ask me about **C Programming Lang :D**
 
-- 📫 How to reach me **oktayharun06@gmail.com**
+- 📩 How to reach me **oktayharun06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
