@@ -1,15 +1,15 @@
-<h1 align="center">Hey 👋! I'm Harun.</h1>
-
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <h1>Hey 👋! I'm Harun.</h1>
   <a href="https://Harun-oktay.vercel.app">
-    <kbd>
+    <kbd style="background-color: #1a1b27; border: 2px solid #2d2d3b; border-radius: 8px;">
       <br>
-      <b> Visit My Personal Website </b>
+      <b style="color: #ffffff">🌐 Visit My Website</b>
       <br>
       <br>
     </kbd>
   </a>
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarunOktay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
