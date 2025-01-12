@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarunOktay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false" height="191" alt="languages graph"  />
   
 <div align="left">
-  <h3>Connect with me:</h3>
+  <h3>Check My Socials!:</h3>
   <a href="https://www.linkedin.com/in/harun-oktay/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
