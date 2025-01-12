@@ -2,10 +2,9 @@
   <h1 align="left" style="display: inline-block">Hey 👋! I'm Harun</h1>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://Harun-oktay.vercel.app">
-    <img src="https://img.shields.io/badge/My_Website-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Website"/>
   </a>
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarunOktay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarunOktay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
