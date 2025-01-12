@@ -1,7 +1,7 @@
 # &nbsp;&nbsp; Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Harun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visit My Website :&nbsp;&nbsp;[![](https://img.shields.io/badge/HERE-1a1b27?style=for-the-badge)](https://Harun-oktay.vercel.app)
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Passionate+about+Clean+Architecture;Researcher,Pursuing+Tech+Excellence<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=crimson&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Passionate+about+Clean+Architecture;Researcher,Pursuing+Tech+Excellence<3"></a>
 </p>
 
 <div align="center">
