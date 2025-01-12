@@ -1,14 +1,4 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <h1>Hey 👋! I'm Harun.</h1>
-  <a href="https://Harun-oktay.vercel.app">
-    <kbd style="background-color: #1a1b27; border: 2px solid #2d2d3b; border-radius: 8px;">
-      <br>
-      <b style="color: #ffffff">🌐 Visit My Website</b>
-      <br>
-      <br>
-    </kbd>
-  </a>
-</div>
+# <div align="center">Hey 👋! I'm Harun. [![Website](https://img.shields.io/badge/🌐_My_Website-1a1b27?style=for-the-badge&logoColor=white)](https://Harun-oktay.vercel.app)</div>
 
 
 <div align="center">
