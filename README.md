@@ -1,4 +1,7 @@
 # &nbsp;&nbsp; Hey 👋! I'm Harun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visit My Website :&nbsp;&nbsp;[![](https://img.shields.io/badge/HERE-1a1b27?style=for-the-badge)](https://Harun-oktay.vercel.app)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Passionate+about+Clean+Architecture;Active+Learner/Researcher,Pursuing+Tech+Excellence<3"></a>
+</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarunOktay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false" height="191" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarunOktay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false" height="191" alt="languages graph"  />
