@@ -1,5 +1,9 @@
-# <div align="center">Hey 👋! I'm Harun. [![Website](https://img.shields.io/badge/🌐_My_Website-1a1b27?style=for-the-badge&logoColor=white)](https://Harun-oktay.vercel.app)</div>
-
+<div align="center">
+  <h1 style="display: inline-block; margin-right: 20px;">Hey 👋! I'm Harun.</h1>
+  <a href="https://Harun-oktay.vercel.app" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🌐_My_Website-1a1b27?style=for-the-badge&logoColor=white" alt="Website" height="35"/>
+  </a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarunOktay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
