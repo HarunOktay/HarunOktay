@@ -1,9 +1,8 @@
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
-  <h1 align="left">Hey 👋! I'm Harun.</h1>
+<div align="center">
+  <h1 align="left" style="display: inline-block">Hey 👋! I'm Harun</h1>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://Harun-oktay.vercel.app">
-    <kbd style="background-color: #1a1b27; border: 2px solid #2d2d3b; padding: 10px 20px; border-radius: 8px;">
-      <span style="color: #ffffff">🌐 Visit My Website</span>
-    </kbd>
+    <img src="https://img.shields.io/badge/My_Website-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website"/>
   </a>
 </div>
 
