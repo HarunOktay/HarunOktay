@@ -1,4 +1,12 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hey 👋! I'm Harun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visit My Website :&nbsp;&nbsp;[![](https://img.shields.io/badge/HERE-1a1b27?style=for-the-badge)](https://Harun-oktay.vercel.app)
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1rem; padding: 1rem;">
+  <h1 style="margin: 0;">Hey 👋! I'm Harun</h1>
+  <div style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
+    <span>Visit My Website:</span>
+    <a href="https://Harun-oktay.vercel.app">
+      <img src="https://img.shields.io/badge/HERE-1a1b27?style=for-the-badge" alt="Website Link"/>
+    </a>
+  </div>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarunOktay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
