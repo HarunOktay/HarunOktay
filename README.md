@@ -1,7 +1,9 @@
-# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Harun
-
+<div align="center">
+  <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Harun</h1>
+</div>
+ 
 <p align="center">
- <a href="https://Harun-oktay.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=38&pause=1000&color=3D0EFF&center=true&vCenter=true&width=800&height=125&lines=Computer+Engineering+Student;Passionate+about+Clean+Architecture;Researcher%2C+Pursuing+Tech+Excellence+%3C3;Visit+My+Website;Harun-oktay.vercel.app" alt="Typing SVG" /></a>
+ <a href="https://Harun-oktay.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=38&pause=1000&color=3D0EFF&center=true&vCenter=true&width=800&height=125&lines=Visit+My+Website;Harun-oktay.vercel.app" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
