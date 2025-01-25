@@ -3,7 +3,7 @@
 </div>
  
 <p align="center">
- <a href="https://Harun-oktay.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=38&pause=1000&color=3D0EFF&center=true&vCenter=true&width=800&height=125&lines=Visit+My+Website;Harun-oktay.vercel.app" alt="Typing SVG" /></a>
+ <a href="https://Harun-oktay.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=38&pause=1000&color=3D0EFF&center=true&vCenter=true&width=800&height=125&lines=Click+Here+to+Visit+My+Website" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
